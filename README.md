@@ -55,10 +55,28 @@ Hasil: (F,d=0) (B,d=1) (G,d=1) (A,d=2) (D,d=2) (I,d=2) (C,d=3) (E,d=3) (H,d=3)
 
 Untuk menemukan node C, proses yang dilakukan oleh algoritma BFS adalah sebagai berikut:
 •	Pencarian dimulai dari simpul awal initial state adalah F. Algoritma BFS akan menelusuri semua simpul yang terhubung langsung dengan F, yaitu  B dan g dan menandainya sebagai simpul yang sudah dikunjungi.
-
 •	kemudian, algoritma akan melanjutkan untuk menelusuri simpul B, menemukan simpul-simpul yang terhubung langsung dengan B, yaitu A dan D, dan menandainya sebagai "dikunjungi". 
 •	kemudian, algoritma akan melanjutkan untuk menelusuri simpul G, menemukan simpul-simpul yang terhubung langsung dengan G, yaitu I dan menandainya sebagai "dikunjungi". 
 •	kemudian, algoritma akan melanjutkan untuk menelusuri simpul D yang terhubung langsung dengan C dan E. 
 •	Dalam proses ini, algoritma akan menemukan simpul C karena simpul C terhubung dengan simpul D ,B dan F dengan jarak 3.
  
  
+# Jobjsheet-5-Sistem-Cerdas
+
+1.	Pelajari class EightPuzzleSearch, EightPuzzleSpace, dan Node.
+Kelas Node:
+![image](https://github.com/bagasnghr10/Jobjsheet-4-Sistem-Cerdas/assets/143892102/f5a5d737-13ee-4099-9590-2fc29f86c317)
+
+ 
+2.	Ubahlah initial dan goal state dari program  di atas sehingga bentuk initial dan goal statenya  Gambar 5.8. Kemudian tentukan langkah-langkah mana saja sehingga puzzlenya mencapai goal state. Analisa dan bedakan dengan solusi pada point 1.
+Hasil Program:
+
+ 
+3.	Ubahlah initial dan goal state dari program  di atas sehingga bentuk initial dan goal statenya Gambar 5.9. Kemudian tentukan langkah-langkah mana saja sehingga puzzlenya mencapai goal state.  Analisa dan bedakan dengan solusi pada point 1 dan 2.
+Hasil Program:
+ 
+4.	Ubahlah initial dan goal state dari program  di atas sehingga bentuk initial dan goal statenya Gambar 5.10. Kemudian tentukan langkah-langkah mana saja sehingga puzzlenya mencapai goal state.  Analisa dan bedakan dengan solusi pada point 1, 2, dan 3.
+Hasil Program:
+ 
+5.	Ubahlah initial dan goal state dari program dan class-class di atas sehingga bentuk initial dan goal statenya Gambar 5.11. Kemudian tentukan langkah-langkah mana saja sehinggapuzzlenya mencapai goal state.
+Hasil Program:
