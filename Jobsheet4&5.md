@@ -13,9 +13,13 @@ Setealh menjalankan program praktikum maka akan mendapatkan hasil
 
 Dalam algoritma BFS, pencarian dimulai dari simpul awal atau inisial state n3. Algoritma akan menjelajahi semua simpul yang terhubung langsung dengan simpul awal terlebih dahulu sebelum menjelajahi simpul-simpul yang lebih jauh.
 •	Pada tahap pertama Dimulai dari simpul n3  akan terhubung langsung yaitu n4 dan n2. Kedua simpul ini akan ditandai sebagai "dikunjungi" algoritma akan mengunjungi simpul n4 sebelum mengunjungi simpul n2.
+
 •	Pada tahap selanjutnya n4 akan menuju ke n5 sebagai tetangga terdekat n5 pada level 1 pencarian dan n2 akan menuju ke n6 dan n1 sebagai tetangga terdekat
+
 •	Setelah itu, algoritma akan melanjutkan untuk mengunjungi simpul-simpul dalam antrian sesuai dengan urutan dimana n5 akan menuju ke n7 dan n6 akan menuju ke n8.
+
 •	N8 dan n7 memiliki jarak 3 dengan simpul awal sedangkan n6 memiliki jarak 2 dengan simpul awal atau initial state
+
 2.	Ubahlah method static void main sehingga bentuk tree seperti Gambar 4.5 dapat dibentuk. Kemudian tentukan bagaimana algoritma BFS dapat menemukan node 5.
 Jawab:
 
