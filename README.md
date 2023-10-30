@@ -1,1 +1,0 @@
-# Jobjsheet-4-Sistem-Cerdas
