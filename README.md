@@ -1,4 +1,4 @@
-# Jobjsheet-4-Sistem-Cerdas
+# Jobjsheet 4 dan 5 Artificial artificial intelligence
 
 NAMA	: Dwi Bagas Nugroho
 NIM		: 5311421029
