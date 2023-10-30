@@ -1,4 +1,4 @@
-# Jobjsheet 4 dan 5 Artificial artificial intelligence
+# Jobjsheet 4 Artificial intelligence
 
 NAMA	: Dwi Bagas Nugroho
 NIM		: 5311421029
@@ -61,22 +61,4 @@ Untuk menemukan node C, proses yang dilakukan oleh algoritma BFS adalah sebagai 
 •	Dalam proses ini, algoritma akan menemukan simpul C karena simpul C terhubung dengan simpul D ,B dan F dengan jarak 3.
  
  
-# Jobjsheet-5-Sistem-Cerdas
 
-1.	Pelajari class EightPuzzleSearch, EightPuzzleSpace, dan Node.
-Kelas Node:
-![image](https://github.com/bagasnghr10/Jobjsheet-4-Sistem-Cerdas/assets/143892102/f5a5d737-13ee-4099-9590-2fc29f86c317)
-
- 
-2.	Ubahlah initial dan goal state dari program  di atas sehingga bentuk initial dan goal statenya  Gambar 5.8. Kemudian tentukan langkah-langkah mana saja sehingga puzzlenya mencapai goal state. Analisa dan bedakan dengan solusi pada point 1.
-Hasil Program:
-
- 
-3.	Ubahlah initial dan goal state dari program  di atas sehingga bentuk initial dan goal statenya Gambar 5.9. Kemudian tentukan langkah-langkah mana saja sehingga puzzlenya mencapai goal state.  Analisa dan bedakan dengan solusi pada point 1 dan 2.
-Hasil Program:
- 
-4.	Ubahlah initial dan goal state dari program  di atas sehingga bentuk initial dan goal statenya Gambar 5.10. Kemudian tentukan langkah-langkah mana saja sehingga puzzlenya mencapai goal state.  Analisa dan bedakan dengan solusi pada point 1, 2, dan 3.
-Hasil Program:
- 
-5.	Ubahlah initial dan goal state dari program dan class-class di atas sehingga bentuk initial dan goal statenya Gambar 5.11. Kemudian tentukan langkah-langkah mana saja sehinggapuzzlenya mencapai goal state.
-Hasil Program:
